@@ -29,6 +29,7 @@
     max-width: 400px;
     display: block;
     max-height: 50vh;
+    transition: transform 0.9s ease;
 }
 
 .count {
