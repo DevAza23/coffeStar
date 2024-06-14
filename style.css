@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.father-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mini {}
+
+.title {
+    text-align: center;
+}
+
+.сf {
+    max-width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.cf img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    display: block;
+    max-height: 50vh;
+}
+
+.count {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.counter {
+    text-align: center;
+}
